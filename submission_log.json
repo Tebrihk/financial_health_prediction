@@ -1,0 +1,20 @@
+{
+  "submissions": [
+    {
+      "submission_number": 1,
+      "filename": "submission_baseline.csv",
+      "model_type": "Baseline (All Low)",
+      "cv_score": null,
+      "expected_lb_score": "0.30-0.35",
+      "description": "Baseline submission - all predictions as 'Low' class",
+      "date": "2025-03-12",
+      "time": "20:52:00",
+      "daily_submission": 1,
+      "status": "ready_to_submit"
+    }
+  ],
+  "next_submission_number": 2,
+  "total_submissions": 0,
+  "daily_submissions": 0,
+  "last_submission_date": null
+}
